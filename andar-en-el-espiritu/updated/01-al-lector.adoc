@@ -39,7 +39,7 @@ y buenos cristianos?
 
 Las primeras iglesias tenían el honorable nombre de santas;
 nosotros a menudo no podemos darnos un mejor nombre que el de "`miserables pecadores;`"^
-footnote:[El Libro de Oración Común, de la Iglesia de Inglaterra]
+footnote:[__El Libro de Oración Común,__ de la Iglesia de Inglaterra]
 y ¿cuál es la razón? La mayoría de los miembros de las iglesias mencionadas anteriormente,
 antes de su conversión, no eran más que paganos;
 no nacieron de padres Cristianos ni fueron educados en la fe Cristiana,
@@ -153,4 +153,5 @@ y no el Dios del cielo.
 Y ¿qué felicidad futura puede producir esto?
 Dejemos que el sabio en el corazón juzgue.
 
---Hugh Turford
+[.signed-section-signature]
+Hugh Turford

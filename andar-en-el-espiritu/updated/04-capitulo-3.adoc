@@ -19,6 +19,7 @@ Porque cualquiera que sea salvo del pecado aquí,
 ciertamente será salvo de la muerte y de la condenación en lo por venir;
 y que muchos puedan llegar a ser testigos de esta salvación, es el deseo de,
 
+[.signed-section-signature]
 Hugh Turford.
 
 [.asterism]
@@ -32,8 +33,10 @@ vivamos en este presente mundo sobria, justa y piadosamente.`"^
 footnote:[Tito 2:11]
 A partir de estas declaraciones de peso, surgen las siguientes preguntas:
 
-Pregunta 1. ¿Qué es la gracia de Dios?
+[.discourse-part]
+_Pregunta 1._ ¿Qué es la gracia de Dios?
 
+[.discourse-part]
 Respuesta: La gracia de Dios, que trae Salvación,
 es nada menos que una inspiración divina,
 un don de Dios para los hijos e hijas de los hombres, un adversario del diablo,
@@ -74,8 +77,10 @@ y guiarlo en el camino de la vida y salvación. Y esta medida,
 siendo el don gratuito de Dios, es llamada _gracia_ por el apóstol,
 tanto en este texto como en muchos otros lugares de la Escritura.
 
-Pregunta 2. ¿Dónde aparece la gracia de Dios que trae salvación?
+[.discourse-part]
+_Pregunta 2._ ¿Dónde aparece la gracia de Dios que trae salvación?
 
+[.discourse-part]
 Respuesta: El gran Dios, en Su infinita sabiduría y amor eterno,
 ha puesto Su Simiente real o "`planta de renombre`"^
 footnote:[Ezequiel 34:29]
@@ -142,9 +147,11 @@ y con el tiempo (por falta de incremento), les es quitado;^
 footnote:[Mateo 25: 28]
 y entonces al quedar sin gracia, llevan una vida malvada e impía en este mundo presente.
 
-Pregunta 3. Si la gracia de Dios aparece a todos,
+[.discourse-part]
+_Pregunta 3._ Si la gracia de Dios aparece a todos,
 y si es suficiente para hacerlos piadosos, entonces ¿por qué hay tantos impíos?
 
+[.discourse-part]
 Respuesta: Así como la gracia de Dios que trae salvación aparece a todos los hombres,
 también las inclinaciones del pecado que conducen
 a la destrucción aparecen a todos los hombres,
@@ -192,8 +199,10 @@ nos diferencia de los peores hombres que cometen acciones viles.
 Porque, así como toda justicia procede de la plenitud de la gracia,
 también la abundancia de maldad procede de la falta de gracia.
 
-Pregunta 4. ¿Qué clase de salvación trae la gracia?
+[.discourse-part]
+_Pregunta 4._ ¿Qué clase de salvación trae la gracia?
 
+[.discourse-part]
 Respuesta: Así como las apariciones de la gracia son reprensiones por el pecado,
 la salvación que trae la gracia es la salvación del pecado.
 Si la gracia enseña a los hombres a vivir sobria,
@@ -279,9 +288,11 @@ el pecado y Satanás habrán perdido su dominio sobre nosotros.
 Esta es la salvación de Dios, y por medio de ella llegamos a vivir sobria, justa,
 y piadosamente, en este mundo presente.
 
-Pregunta 5. ¿De quién estaba hablando el apóstol cuando dijo,
+[.discourse-part]
+_Pregunta 5._ ¿De quién estaba hablando el apóstol cuando dijo,
 "`enseñándonos`"? ¿Se refería al mundo en general, o sólo a algunos particulares?
 
+[.discourse-part]
 Respuesta: Cristo fue dado como "`una luz a las naciones;`"^
 footnote:[Isaías 42:6; 49:6; Isaías 60:3; Lucas 2:32; Hechos 13:47; 26:23]
 y conforme Le obedecieron, también llegó a ser su líder fuera de toda impiedad,
@@ -309,7 +320,8 @@ Pero puesto que encontramos muy pocos produciendo tales frutos,
 podemos ciertamente concluir que, a pesar de que la gracia aparece a todos,
 no todos son obedientes a ella.
 
-Pregunta 6. Confesamos que hemos sentido reprensiones internas por el pecado;
+[.discourse-part]
+_Pregunta 6._ Confesamos que hemos sentido reprensiones internas por el pecado;
 hemos sido frenados, reprobados,
 y condenados en nosotros mismos después de haber hecho lo malo.
 Pero cuando fuertes inclinaciones y tentaciones se han levantado en nuestras mentes,
@@ -319,6 +331,7 @@ y los deseos mundanos con nuestra propia fuerza,
 especialmente cuando un pecado ha tomado dominio sobre nosotros.
 ¿Qué podemos hacer en ese caso?
 
+[.discourse-part]
 Respuesta: Si el hombre, con sus propias fuerzas,
 pudiera librar su alma de la potestad del pecado y de Satanás, regresar a Dios,
 y llevar una vida sobria, justa y piadosa en este mundo presente,
@@ -416,8 +429,10 @@ está tan dispuesto a llevar una vida justa como cualquier
 hombre impío podría estar dispuesto a llevar una vida malvada;
 y su gozo es mucho mayor, aunque el mundo no puede verlo.
 
-Pregunta 7. ¿Qué es verdadera y correctamente una "`vida sobria, justa, y piadosa`"?
+[.discourse-part]
+_Pregunta 7._ ¿Qué es verdadera y correctamente una "`vida sobria, justa, y piadosa`"?
 
+[.discourse-part]
 Respuesta: Muchos saben, en cierta medida, qué es una vida sobria,
 pero muy pocos entienden lo que es tener una vida justa y piadosa.
 
@@ -514,9 +529,11 @@ el que presta atención a la voz de la gracia,
 vive para la justicia; y a partir de esa Fuente que tiene en sí mismo,
 lleva una vida sobria, justa y piadosa en este mundo presente.
 
-Pregunta 8. ¿No fueron dadas las Escrituras para nuestro aprendizaje,
+[.discourse-part]
+_Pregunta 8._ ¿No fueron dadas las Escrituras para nuestro aprendizaje,
 y no son una regla de justicia suficiente?
 
+[.discourse-part]
 Respuesta: Las Escrituras son ciertamente una buena regla;
 pero ¿quién puede seguir esta regla, a menos de que esté lleno del buen Espíritu de Dios?
 
@@ -571,10 +588,12 @@ esas cosas también se harán fáciles para nosotros.
 La gracia hace morir el pecado, y cuando el pecado está muerto,
 nada es más fácil que llevar una vida justa.
 
+[.discourse-part]
 Objeción: Pero algunos pueden decir,
 "`nosotros no dependemos de obras de justicia para tener vida y salvación, sino de la fe.
 Nosotros creemos, y por lo tanto esperamos ser salvos.`"
 
+[.discourse-part]
 Respuesta: Sé que aquí es donde la mayoría de los hombres han puesto su dependencia,
 y todos asumen que poseen la fe salvadora.
 Pero ¿es su fe la que "`purifica los corazones,`"^
@@ -602,12 +621,14 @@ La fe y las obras de justicia van de la mano.
 Aquel que tiene la una, tiene ambas, y la gracia es la fuente de donde proceden las dos.
 El incrédulo, el impío, y el que carece de gracia, no tiene ninguna.
 
-Pregunta 9. Si la gracia interna y espiritual es suficiente
+[.discourse-part]
+_Pregunta 9._ Si la gracia interna y espiritual es suficiente
 para enseñarnos nuestro deber hacia Dios y al hombre,
 y para establecernos en justicia, entonces ¿por qué hubo un ministerio externo,
 y para qué fin fueron dados los apóstoles, profetas, evangelistas, pastores,
 y maestros a la iglesia?
 
+[.discourse-part]
 Respuesta: Pablo le dijo al rey Agripa que él fue puesto "`por ministro y testigo.`"^
 footnote:[Hechos 26:16]
 Él era un testigo de la operación poderosa de la gracia en su propia alma
